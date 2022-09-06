@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thelma-Dev
-- 👀 I’m interested in data science and business analytics 
-- 🌱 I’m currently learning SQL and PowerBI
+- 👀 I’m interested in business intelligence analysis 
+- 🌱 I have 2 years experience working with SQL and PowerBI
 - 💞️ I’m looking to collaborate on projects involving SQL and PowerBI
 - 📫 How to reach me osifoaisosa@gmail.com
 
