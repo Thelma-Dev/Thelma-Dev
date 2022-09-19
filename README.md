@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thelma-Dev
-- 👀 I’m interested in business intelligence analysis 
-- 🌱 I have 2 years experience working with SQL and PowerBI
-- 💞️ I’m looking to collaborate on projects involving SQL and PowerBI
+- 👀 I’m interested in business intelligence analysis and web development 
+- 🌱 I have 2 years experience working with SQL and PowerBI. I am currently enrolled in a Software Development Program at MITT
+- 💞️ I’m looking to collaborate on projects involving data analysis and web development.
 - 📫 How to reach me osifoaisosa@gmail.com
 
 <!---
