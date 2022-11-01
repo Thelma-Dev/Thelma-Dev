@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Thelma-Dev
-- 👀 I’m interested in business intelligence analysis and web development 
-- 🌱 I have 2 years experience working with SQL and PowerBI. I am currently enrolled in a Software Development Program at MITT
-- 💞️ I’m looking to collaborate on projects involving data analysis and web development.
-- 📫 How to reach me osifoaisosa@gmail.com
+ABOUT ME
+
+Hello world. I am Thelma Osifo, a software development student at MITT.
+I’m interested in helping companies make informed decisions leveraging on data, as well as creating functional websites and software applications.
+
+My tech stack includes JavaScript, HTML5, CSS 3, PostgreSQL, SQL Server Management Studio, PowerBI. Feel free to check out my repositories and reach me at osifoaisosa@gmail.com. 
+
 
 <!---
 Thelma-Dev/Thelma-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
