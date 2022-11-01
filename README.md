@@ -1,4 +1,4 @@
-ABOUT ME
+ABOUT ME 
 
 Hello world. I am Thelma Osifo, a software development student at MITT.
 I’m interested in helping companies make informed decisions leveraging on data, as well as creating functional websites and software applications.
