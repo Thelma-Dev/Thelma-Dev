@@ -1,4 +1,4 @@
-<img src=../image/banner.jpg width= "100%" height='300px'>
+<img src='../image/banner.jpg' width= "100%" height='300px'>
 
 ---
 
