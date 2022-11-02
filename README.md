@@ -1,4 +1,4 @@
-<img src="banner.jpg" width= "100%" height='300px'>
+<img src="git-banner.jpg" width= "100%" height='300px'>
 
 ---
 
