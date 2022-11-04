@@ -22,10 +22,9 @@ My tech stack includes JavaScript, CSS, Microsoft SQL Server, and PowerBI. To kn
 
 ## My stats
 <div style="display: flex; flex-direction: row;" >
-  <img height='200px' align='center' src="https://github-readme-stats.vercel.app/api?username=thelma-dev&theme=radical&show_icons=true" alt="Thelmas GitHub stats" />
+  <img height='180px' align='center' src="https://github-readme-stats.vercel.app/api?username=thelma-dev&theme=radical&show_icons=true" alt="Thelmas GitHub stats" />
 
-  <img height='200px' align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelma-dev&theme=radical&show_icons=true&langs_count=3" alt="Thelma 
-  GitHub stats"/>
+  <img height='180px' align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelma-dev&theme=radical&show_icons=true&langs_count=3" alt="Thelma GitHub stats"/>
 </div>
 
 
