@@ -1,6 +1,5 @@
-<img src="git-banner.jpg" width= "100%" height='300px'>
+<img src="img/git-banner.jpg" width= "100%" height='300px'>
 
----
 
 ## About Me 
 
@@ -10,7 +9,6 @@ I’m invested in helping companies make informed business decisions leveraging 
 
 My tech stack includes JavaScript, CSS, Microsoft SQL Server, and PowerBI. To know more, reach out to me -osifoaisosa@gmail.com. 
 
----
 
 ## Tech Stack
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=fff&color=d4d4f2)
@@ -21,7 +19,14 @@ My tech stack includes JavaScript, CSS, Microsoft SQL Server, and PowerBI. To kn
 ![](https://img.shields.io/badge/BA-Microsoft_Excel-informational?style=for-the-badge&logo=microsoft-excel&logoColor=fff&color=d4d4f2)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=d4d4f2&logo=Power+BI&logoColor=fff&label=BI)
 
----
+
+## My stats
+<div style="display: flex; flex-direction: row;" >
+  <img height='200px' align='center' src="https://github-readme-stats.vercel.app/api?username=thelma-dev&theme=radical&show_icons=true" alt="Thelmas GitHub stats" />
+
+  <img height='200px' align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelma-dev&theme=radical&show_icons=true&langs_count=3" alt="Thelma 
+  GitHub stats"/>
+</div>
 
 
 <!---
