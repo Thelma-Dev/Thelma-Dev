@@ -14,6 +14,7 @@ My tech stack includes JavaScript, CSS, Microsoft SQL Server, and PowerBI. To kn
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=fff&color=d4d4f2)
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=fff&color=d4d4f2)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=fff&color=d4d4f2)
+![](https://img.shields.io/badge/code-C%23-%23239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=fff&color=d4d4f2)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=fff&color=d4d4f2)
 ![](https://img.shields.io/badge/DB-Microsoft%20SQL%20Server-informational?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=fff&color=d4d4f2)
 ![](https://img.shields.io/badge/BA-Microsoft_Excel-informational?style=for-the-badge&logo=microsoft-excel&logoColor=fff&color=d4d4f2)
