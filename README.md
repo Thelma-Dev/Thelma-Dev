@@ -3,16 +3,17 @@
 
 ## About Me 
 
-Hello, I'm Thelma Osifo, a software development student at MITT.
+Hello, I'm Thelma Osifo, a software developer and business intelligence developer.
 
 I’m invested in helping companies make informed business decisions leveraging on data. I also enjoy designing functional websites and applications that meet users needs.
 
-My tech stack includes C#, .NET, JavaScript, React, SQL Server, and PowerBI. Want to know more about me? Get in touch with me.
+My tech stack includes C#, .NET, TypeScript, JavaScript, React, SQL Server, and PowerBI. Want to know more about me? Get in touch with me.
 
 My official website : [thelma.dev](https://thelma.dev/)
 
 ## Tech Stack
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=fff&color=d4d4f2)
+![](https://img.shields.io/badge/code-typescript-informational?style=for-the-badge&logo=typescript&logoColor=fff&color=d4d4f2)
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=fff&color=d4d4f2)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=fff&color=d4d4f2)
 ![](https://img.shields.io/badge/code-C%23-%23239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=fff&color=d4d4f2)
